@@ -1,0 +1,133 @@
+*{  /*清除浏览器辣鸡默认设置*/
+	margin:0px;
+	padding:0px;
+}
+body{ /*使用body设置CSS背景*/
+	background-image: url(http://www.lovelive-anime.jp/img/bg.jpg);
+	background-color: #ffffff;
+	background-repeat: no-repeat; /*背景仅重复一次*/
+	background-position:left,center; /*背景中央显示*/
+	background-position:top; /*背景放在最顶上*/
+	background-attachment:fixed; /*背景不受滚动影响*/
+ }
+
+.mian{  /*最大的div*/
+	width:1024px;
+	height:auto;
+	margin: 0 auto;
+}
+		
+.cla2{  
+	height: 100%;
+	width:1004px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+}
+
+#headpicture{
+	height: auto;
+}
+
+.cc{ /*中间五个主要企划*/
+	height: 485px;
+	width: 1004px;
+	margin-top: 30px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+#newserise{
+	display: inline;
+	float: left;
+}
+
+#nijigasaki{
+	float: right;
+	display: inline;
+}
+
+
+#muse{
+	float: right;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	display: inline;
+}
+
+#sunshine{
+	height: 154px;
+	display: inline;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+#9th{
+	display: inline;
+}
+
+.cla3{
+	margin-top: 20px;
+	width: 1004px;
+	height: 210px;
+	background-image:url('http://www.lovelive-anime.jp/js/lovelive.hyperesources/base.png')
+}
+
+#scfes_ac{
+	float: right;
+	padding: 10px;
+	padding-right: 20px;
+}
+
+#b_apple2{
+	position:absolute;
+	bottom: 50px;
+	transform: translateX(40px)
+}
+#b_google2{
+	position:absolute;
+	bottom: 50px;
+	transform: translateX(190px);
+}
+#scfes{
+	float: right;
+	padding: 10px;
+	padding-right: 23px;
+}
+
+#b_apple1{
+	position:absolute;
+	bottom: 50px;
+	transform: translateX(375px)
+}
+#b_google1{
+	position:absolute;
+	bottom: 50px;
+	transform: translateX(525px);
+}
+#ALLSTAR{
+	float: right;
+	padding: 10px;
+	padding-right: 20px;
+	padding-right: 23px;
+}
+
+#Twitter{
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+#inlinebase{
+	width: 350px;
+	height: 400px;
+	background-color: RGB(249,253,255);
+	overflow: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	font-size: 5px;
+	text-align:center
+}
