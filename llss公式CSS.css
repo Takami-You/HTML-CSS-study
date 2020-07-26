@@ -130,3 +130,19 @@
 #sifas{
 	float: right;
 }
+
+/*尾部*/
+#endbar{
+	height: 20px;
+	width: 100%;
+	background-color: rgb(251,136,36);
+	overflow: auto;
+}
+#footer{
+	text-align: center;
+}
+p{
+	font-size: 14px;
+	color: rgb(153,153,153);
+	font-family: Meiryo;
+}
