@@ -1,0 +1,132 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*最顶上橙色那部分*/
+#head1{
+	background-color: rgb(251,136,36);
+	overflow: auto;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+#portal{
+	font-size: small;
+	float: left;
+}
+#portal2{
+	text-decoration: none;
+	color: aliceblue;
+}
+#world{
+	font-size: small;
+	float: right;
+}
+#world2{
+	text-decoration: none;
+	color: aliceblue;
+}
+
+/*主要部分*/
+#mian{
+	width: 1024px;
+	height: 974px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*左半边*/
+#left{
+	height: 1346px;
+	width: 320px;
+	text-align: center;
+	padding-top: 10px;
+	float: left;
+}
+#menu{
+	margin-top: 5px;
+}
+#event{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#domo{
+	margin-top: 10px;
+}
+#SS1st{
+	margin-top: 10px;
+}
+#TOKYOMX{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#movielist{
+	background-image: url(http://www.lovelive-anime.jp/uranohoshi/img/common/movielist/base.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.kyoku {
+    font-size: 9px;
+    color: #ff8100;
+    padding: 10px 5px 5px 5px;
+    line-height: 1;
+	text-align: left;
+}
+.tw {
+    width: 320px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #FB8824;
+    float: left;
+    margin: 10px 0 10px 0;
+}
+#inlinebase {
+    width: 300px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+    background-image: url(http://www.lovelive-anime.jp/uranohoshi/img/common/twbgl.png);
+    background-repeat: no-repeat;
+}
+
+/*右半边*/
+#right{
+	padding-top: 10px;
+	float: right;
+}
+#keyv{
+	padding-bottom: 63.719px;
+	display: inline-block;
+}
+#banner{
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 670px;
+}
+#aqoursclub{
+	display: inline-block;
+	float: left;
+}
+#animemovie{
+	float: right;
+	display: inline-block;
+}
+#saito{
+	display: inline-block;
+}
+#sif{
+	float: right;
+	clear: left;
+}
+#sifacns{
+	display: inline-block;
+}
+#sifas{
+	float: right;
+}
